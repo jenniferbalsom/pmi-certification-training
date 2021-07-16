@@ -8,7 +8,10 @@
 4.	Schedule your exam with Pearson VUE.
 5.	Take and Pass the PMP Exam.
 
-The PMP Certification is the most globally recognized credential in project management. Earning your PMP Certification will set you apart as a leader on your team and increase your earning potential.
+The [PMP Certification] is the most globally recognized credential in project management. Earning your PMP Certification will set you apart as a leader on your team and increase your earning potential.
+
+[//]: # (Any comments)
+[PMP Certification]: <https://www.netcomlearning.com/project-management-professional-pmp-training/product/97/>
 
 Here is everything you need to know about the certification process, PMP certification training courses, and PMI’s requirements. NetCom Learning has all the information to guide you through the journey.
 

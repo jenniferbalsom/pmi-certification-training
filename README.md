@@ -36,7 +36,10 @@ In my experience, PMP certification is worth it. There are numerous advantages a
 
 # How do I prove 4500 hours for PMP?
 
-If you have a bachelor's degree or better, you can qualify with 4,500 hours of experience leading and directing projects. You can apply for the Certified Associate in Project Management (CAPM) certification with 1,500 hours of project experience or 23 hours of project management education.
+If you have a bachelor's degree or better, you can qualify with 4,500 hours of experience leading and directing projects. You can apply for the [Certified Associate in Project Management (CAPM) certification] with 1,500 hours of project experience or 23 hours of project management education.
+
+[//]: # (Any comments)
+[Certified Associate in Project Management (CAPM) certification]: <https://www.netcomlearning.com/certified-associate-in-project-management-capm-training/product/1430/>
 
 # How do I get a PMP without experience?
 
@@ -48,7 +51,10 @@ The average time required is around 2 months with 3 hours of studies every day (
 
 # What is PMP certification training course?
 
-The PMP course covers new trends, emerging practices, tailoring considerations, and core competencies required of a Project Management professional. Placing a greater emphasis on strategic and business knowledge, this pmp course also includes a new section on the role of the project manager in both large and small companies.
+The PMP course covers new trends, emerging practices, tailoring considerations, and core competencies required of a Project Management professional. Placing a greater emphasis on strategic and business knowledge, this [PMP course] also includes a new section on the role of the project manager in both large and small companies.
+
+[//]: # (Any comments)
+[PMP course]: <https://www.netcomlearning.com/courses/4401/pmi-pmp-prep.html>
 
 # Is PMP still in demand?
 

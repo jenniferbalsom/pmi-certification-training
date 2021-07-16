@@ -5,6 +5,8 @@ Yes, you can do self study for the [PMP examination]. In fact, once you have att
 [//]: # (Any comments)
 [PMP examination]: <https://www.netcomlearning.com/project-management-professional-pmp-training/product/97/>
 
+# For more information about PMI products, Certifications and Courses
+
 - [Disciplined Agile]
 - [Project Management Professional (PMP)]
 - [Agile Project Management]

@@ -21,7 +21,10 @@ An MBA is a degree and a PMP is a professional certification. So, it's really ha
 
 # Is the PMP exam difficult?
 
-The Project Management Professional (PMP) exam is hard. Anyone who aspires to attain PMP certification should be prepared for the exam. Consequently, first-time test takers should also be advised that the PMP certification exam is extremely difficult.
+The Project Management Professional (PMP) exam is hard. Anyone who aspires to attain [PMP Certification] should be prepared for the exam. Consequently, first-time test takers should also be advised that the PMP certification exam is extremely difficult.
+
+[//]: # (Any comments)
+[PMP Certification]: <https://www.netcomlearning.com/project-management-professional-pmp-training/product/97/>
 
 The exam consists of 200 multiple-choice questions in a period of only four hours. The questions are written for a high difficulty level and are designed to test your understanding of the subjects and the ability to problem solve in real life. Some of the questions are theoretical, some are situational, and some require calculations or graph drawing.
 
@@ -66,7 +69,10 @@ Through a PMP course, you're required to complete 35 hours of online training to
 
 # How hard is the 2021 PMP exam?
 
-First of all, keep in mind that obtaining the PMP® Certification is something accessible. But that does not mean that it is something easy. The exam is difficult as it seems because of that the PMP pass rate is very low.
+First of all, keep in mind that obtaining the [PMP® Certification] is something accessible. But that does not mean that it is something easy. The exam is difficult as it seems because of that the PMP pass rate is very low.
+
+[//]: # (Any comments)
+[PMP Certification]: <https://www.netcomlearning.com/project-management-professional-pmp-training/product/97/>
 
 It is not accreditation that is given away. It is a great step in your career that requires dedication and perseverance on your part to prepare for an exam with guarantees. It also brings with it some small economic costs, which you should see as an investment.
 
